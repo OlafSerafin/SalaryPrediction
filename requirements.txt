@@ -1,0 +1,10 @@
+python-dotenv
+google-genai
+google-adk
+tensorflow
+keras
+pandas
+scikit-learn
+joblib
+pydantic
+streamlit
